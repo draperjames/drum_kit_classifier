@@ -1,0 +1,4 @@
+# Ignore all sample files in these directories
+.ipynb_checkpoints/
+Roland TR-808/
+Roland TR-909/
